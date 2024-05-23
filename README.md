@@ -7,5 +7,5 @@
     - Loss decreases gradually compared to RNN, and the final reduction amount is less than that of RNN 
 ![train_CharLSTM](https://github.com/jiwwnn/language-modeling/assets/134251617/0f14555f-5d01-4d09-8a51-c120e0ad11dd)
 
-- Compare the language generation performances in terms of loss values for validation dataset
+### Comparing the language generation performances in terms of loss values for validation dataset
   - RNN is better 
