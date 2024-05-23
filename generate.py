@@ -68,7 +68,6 @@ if __name__ == '__main__':
     idx2char = shakespeare_dataset.idx2char
     
     model = CharLSTM(input_dim=len(char2idx), hidden_dim=64, num_layers=3, drop_prob=0.3)
-    # model = CharRNN(input_dim=len(char2idx), hidden_dim=64, num_layers=3, drop_prob=0.3)
     model = torch.load('./CharLSTM.pt')
     
     model.eval()
