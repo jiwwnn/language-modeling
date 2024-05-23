@@ -24,7 +24,7 @@
 
 ### 4. Trying different temperatures and discussing the differences in results and reason of its effectivness
 - Temperatures : 0.1 / 0.5 / 1.0 / 2.0 / 5.0
-- Results (seed character : 'child')
+- Results 
   - 0.1 - child of the country the country the country the gods and the consul the country the country the country
   - 0.5 - child for the life in the wars of the mangand shall shall with shall in the wars, but the ready him and a
   - 1.0 - child thou myasous mel's world beas saded shant backmight:nor points that home liticinally wife thou art
