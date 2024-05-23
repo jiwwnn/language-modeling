@@ -16,3 +16,10 @@
 - Best model : LSTM
 - Seed characters : speak, citizen, child, heaven, member
 - Results
+  - (1)  : speak.menenius:that you one's to death.gloucester:speak hiaed be a muxt. noble may fozens' by fer our vir
+  - (2) citizen : citizen:the ploudors;the nored soldierstelly wonder make's both of no with and will love that vely be honou
+  - (3) child : child thou myasous mel's world beas saded shant backmight:nor points that home liticinally wife thou art
+  - (4) heaven : heavens, more fally and do ent much that weth their gried off; for you sore go the falled; come, ended cou
+  - (5) member : memberech'd they trubester?first citizen:what pant a bratting fyle on non the name.vasting:the cution.coni
+ 
+  
