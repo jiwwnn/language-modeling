@@ -8,4 +8,4 @@
 ![train_CharLSTM](https://github.com/jiwwnn/language-modeling/assets/134251617/0f14555f-5d01-4d09-8a51-c120e0ad11dd)
 
 ### Comparing the language generation performances in terms of loss values for validation dataset
-  - RNN is better 
+  - RNN is superior than LSTM in terms of loss values for validation dataset.   - [Comparison of val loss (epoch 30)] (RNN) 2.14  < (LSTM) 2.43
