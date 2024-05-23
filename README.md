@@ -2,6 +2,7 @@
 ### Average loss values of training and validation datasets 
   - RNN : Loss of RNN decreases rapidly than that of LSTM 
 <img src="https://github.com/jiwwnn/language-modeling/assets/134251617/28661317-a7b6-4919-bcb5-e3dc38034128" width='500'>
+
   - LSTM : Loss decreases gradually compared to RNN, and the total amount of loss reduction is less than that of RNN 
 <img src="https://github.com/jiwwnn/language-modeling/assets/134251617/0f14555f-5d01-4d09-8a51-c120e0ad11dd" width='500'>
 
