@@ -125,7 +125,6 @@ def main():
     dataset_size = len(shakespeare_dataset)
     indices = list(range(dataset_size))
     split = int(np.floor(0.8 * dataset_size))
-    np.random.shuffle(indices)
     
     train_indices, val_indices = indices[:split], indices[split:]
     train_sampler = SubsetRandomSampler(train_indices)
