@@ -31,8 +31,8 @@
   - **2.0** - child.crobuk tomrafterdibsy yo fealse?quernekabfort purv's.sicinidius:life: yow; 'valityebvointiep!gleuce
   - **5.0** - childn,-rhtlsjeb'cgv'dyignsthrr!agr,lay.yog!t-fhrpl wifgfuks a'a:t!thy!mzrrwyglwb?-ne&t!knra'toe:haig;cur
 - Discussion
-  - Temperature Control: Adjusts randomness in text generation.
-  - Lower Temperature (<1): Sharper probability distribution; more deterministic and repetitive text.
-  - Higher Temperature (>1): Flatter probability distribution; more diverse and unpredictable text.
-  - Implementation: Model logits are divided by temperature before applying softmax.
+  - **Temperature Control**: adjusts randomness in text generation.
+  - **Lower Temperature** (<1): sharper probability distribution; more deterministic and repetitive text.
+  - **Higher Temperature** (>1): flatter probability distribution; more diverse and unpredictable text.
+  - **Implementation**: Model logits are divided by temperature before applying softmax.
   
