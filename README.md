@@ -10,7 +10,7 @@
 ### 2. Comparing the language generation performances in terms of loss values for validation dataset
   - LSTM is superior than RNN in terms of loss values for validation dataset.
   - Comparison of val loss (epoch 30) : **[RNN] 1.8632  > [LSTM] 1.7205 (-0.1427)**
-  - This result could derive from **the improvement of long-term dependencies in LSTM** which shows still working better in character level than RNN
+  - This result could derive from the **improvement of long-term dependencies in LSTM** which shows still working better in character level than RNN
 
 ### 3. Generating at least 100 length of 5 different samples from seed characters
 - Best model : LSTM
